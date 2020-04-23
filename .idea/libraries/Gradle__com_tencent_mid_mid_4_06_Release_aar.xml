@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.tencent.mid:mid:4.06-Release@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/mid-4.06-Release.aar/d1d9e3db335e34dbfd9df21ece31e5d5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/mid-4.06-Release.aar/d1d9e3db335e34dbfd9df21ece31e5d5/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/mid-4.06-Release.aar/d1d9e3db335e34dbfd9df21ece31e5d5/jars/libs/mid-sdk-4.06.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tencent.mid/mid/4.06-Release/8d5e9649b4cd2f6f495a7cd245db149352c5b211/mid-4.06-Release-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

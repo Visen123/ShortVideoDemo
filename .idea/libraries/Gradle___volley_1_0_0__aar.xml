@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: :volley-1.0.0:@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/volley-1.0.0.aar/617b9180e5276eda65d4fe6afa03305e/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/volley-1.0.0.aar/617b9180e5276eda65d4fe6afa03305e/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

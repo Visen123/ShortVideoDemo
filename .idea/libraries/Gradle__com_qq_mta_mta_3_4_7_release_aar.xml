@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.qq.mta:mta:3.4.7-release@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/mta-3.4.7-release.aar/23e881b5237330927e4019be80b8e35c/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/mta-3.4.7-release.aar/23e881b5237330927e4019be80b8e35c/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/mta-3.4.7-release.aar/23e881b5237330927e4019be80b8e35c/jars/libs/mta-android-sdk-3.4.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.qq.mta/mta/3.4.7-Release/cbe9c030dc486b06c44b2f1a47c3d9dc31b6312/mta-3.4.7-release-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

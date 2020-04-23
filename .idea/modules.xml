@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Demo.iml" filepath="$PROJECT_DIR$/Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ShortVideoDemo.iml" filepath="$PROJECT_DIR$/ShortVideoDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libsuperplayer/libsuperplayer.iml" filepath="$PROJECT_DIR$/libsuperplayer/libsuperplayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lvb/lvb.iml" filepath="$PROJECT_DIR$/lvb/lvb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/player/player.iml" filepath="$PROJECT_DIR$/player/player.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trtc/trtc.iml" filepath="$PROJECT_DIR$/trtc/trtc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/videoediter/videoediter.iml" filepath="$PROJECT_DIR$/videoediter/videoediter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/videojoiner/videojoiner.iml" filepath="$PROJECT_DIR$/videojoiner/videojoiner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/videorecorder/videorecorder.iml" filepath="$PROJECT_DIR$/videorecorder/videorecorder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/videouploader/videouploader.iml" filepath="$PROJECT_DIR$/videouploader/videouploader.iml" />
+    </modules>
+  </component>
+</project>

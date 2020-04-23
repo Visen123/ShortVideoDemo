@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/libsuperplayer" />
+            <option value="$PROJECT_DIR$/lvb" />
+            <option value="$PROJECT_DIR$/player" />
+            <option value="$PROJECT_DIR$/trtc" />
+            <option value="$PROJECT_DIR$/videoediter" />
+            <option value="$PROJECT_DIR$/videojoiner" />
+            <option value="$PROJECT_DIR$/videorecorder" />
+            <option value="$PROJECT_DIR$/videouploader" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+        <option name="testRunner" value="PLATFORM" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
